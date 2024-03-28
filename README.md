@@ -7,11 +7,11 @@ The **personal milestones table** outlines key milestones for practical programm
 
 | Week | Milestone                                   | Link                                                                        |      
 |------|---------------------------------------------|-----------------------------------------------------------------------------|
-| 1    | Github Account Created                      | https://github.com/`username`                                               | 
-| 1    | Github Profile Page                         | https://github.com/`username`/`username`                                    |
-| 1    | Commit and Push Change from Command Line    | https://github.com/`username`/`repo-name`/commit/`commit-nr`                |
-| 1    | Create a New Branch                         | https://github.com/`username`/`repo-name`/tree/`new-branch-name`            |
-| 1    | Create a conda environment                  | https://github.com/`username`/`repo-name`/blob/`branch-name`/`env.yml`      |
+| 1    | Github Account Created                      | https://github.com/sarahelskakini                                               | 
+| 1    | Github Profile Page                         | https://github.com/sarahelskakini/sarahelskakini                                    |
+| 1    | Commit and Push Change from Command Line    | https://github.com/sarahelskakini/ppchem/commit/69b8cfd2aaca4e670349963cce8180ac2ffc74f8                |
+| 1    | Create a New Branch                         | https://github.com/sarahelskakini/ppchem/tree/newbranch            |
+| 1    | Create a conda environment                  | https://github.com/sarahelskakini/ppchem/blob/newbranch/env.yml      |
 | 1    | Fork a Repo                                 | https://github.com/`username`/practical-programming-in-chemistry-milestones |
 | 1    | (Optional) Make a Pull Request              | |
 | 2    | (Optional) Review a Pull Request            | |
